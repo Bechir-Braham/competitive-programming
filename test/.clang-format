@@ -1,0 +1,16 @@
+AlignConsecutiveMacros: true
+AlignTrailingComments: true
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+SpaceInEmptyBlock: true
+IndentWidth: 4
+MaxEmptyLinesToKeep: 2
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+  SplitEmptyFunction: true
+  AfterControlStatement: Never
+  AfterFunction:   true
+
